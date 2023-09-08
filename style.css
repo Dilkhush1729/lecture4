@@ -1,0 +1,27 @@
+ .div {
+     text-align: center;
+     background-image: url(pexels-jaime-reimer-2695232.jpg);
+     height: 99vh;
+     background-repeat: no-repeat;
+     background-size: cover;
+
+ }
+
+ .success{
+      font-size: 100px;
+      margin: 0px;
+      font-family: Arial, Helvetica, sans-serif;
+ }
+
+ .button {
+     text-align: center;
+     background-color: black;
+     color: white;
+     align-items: center;
+     margin: 3px;
+ }
+
+ .button:hover {
+     background-color: green;
+     color: red;
+ }
